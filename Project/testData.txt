@@ -1,0 +1,93 @@
+Query: Je recherche une montre pour hommes de marque Tissot avec un prix inférieur à 1000DT.
+Category: montre
+Subcategory: montre pour hommes
+Marque: Tissot
+Prix: Inférieur à 1000DT
+
+Query: Je veux acheter des lunettes de soleil de marque Ray-Ban avec un prix entre 9 et 1420DT.
+Category: lunettes
+Subcategory: Lunettes de Soleil
+Marque: Ray-Ban
+Prix: Entre 9 et 1420DT
+
+Query: Je cherche un parfum pour femmes de la marque Chanel avec un volume de 50ml.
+Category: parfum
+Subcategory: parfum pour Femmes
+Marque: Chanel
+Volume: 50ml
+
+Query: Je souhaite trouver un sac de la marque JEEP avec un prix inférieur à 199DT.
+Category: sac
+Marque: JEEP
+Prix: Inférieur à 199DT
+
+Query: Je veux acheter des chaussures pour hommes de la marque Stephan avec une pointure de 43.
+Category: Chaussures
+Subcategory: Chaussures Hommes
+Marque: Stephan
+Pointure: 43
+
+Query: Je recherche des bijoux de la marque Yves Saint Laurent avec un prix entre 15 et 1588DT.
+Category: Accessoires
+Subcategory: Bijoux
+Marque: Yves Saint Laurent
+Prix: Entre 15 et 1588DT
+
+Query: Je veux acheter un soin anti-âge de la marque Clarins avec un volume de 50ml.
+Category: Soins
+Subcategory: Anti Âge
+Marque: Clarins
+Volume: 50ml
+
+Query: Je souhaite trouver un rouge à lèvres de la marque MAC avec un prix inférieur à 319DT.
+Category: Maquillage
+Subcategory: Lèvres
+Marque: MAC
+Prix: Inférieur à 319DT
+
+Query: Je recherche une montre pour hommes de marque Tissot avec un prix inférieur à 1000DT.
+Category: Montres
+Subcategory: Montres pour Hommes
+Marque: Tissot
+Prix: Inférieur à 1000DT
+
+Query: Je veux acheter des lunettes de soleil de marque Ray-Ban avec un prix entre 9 et 1420DT.
+Category: Lunettes
+Subcategory: Lunettes de Soleil
+Marque: Ray-Ban
+Prix: Entre 9 et 1420DT
+
+Query: Je cherche un parfum pour femmes de la marque Chanel avec un volume de 50ml.
+Category: Parfum
+Subcategory: Parfum pour Femmes
+Marque: Chanel
+Volume: 50ml
+
+Query: Je souhaite trouver un sac de la marque JEEP avec un prix inférieur à 199DT.
+Category: Sacs
+Marque: JEEP
+Prix: Inférieur à 199DT
+
+Query: Je veux acheter des chaussures pour hommes de la marque Stephan avec une pointure de 43.
+Category: Chaussures
+Subcategory: Chaussures Hommes
+Marque: Stephan
+Pointure: 43
+
+Query: Je recherche des bijoux de la marque Yves Saint Laurent avec un prix entre 15 et 1588DT.
+Category: Accessoires
+Subcategory: Bijoux
+Marque : Yves Saint Laurent
+Prix : Entre 15 et 1588DT
+
+Query: Je veux acheter un soin anti-âge de la marque Clarins avec un volume de 50ml.
+Category: Soins
+Subcategory: Anti Âge
+Marque: Clarins
+Volume: 50ml
+
+Query: Je souhaite trouver un rouge à lèvres de la marque MAC avec un prix inférieur à 319DT.
+Category: Maquillage
+Subcategory: Lèvres
+Marque: MAC
+Prix: Inférieur à 319DT
