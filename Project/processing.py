@@ -55,14 +55,6 @@ def translate_dataset(dataset):
     return translated_dataset
 
 
-def split_data(data):
-    np.random.shuffle(data)
-    spl = int(len(data) * 0.2)
-    print(spl)
-    prompt = data[:spl]
-    eval = data[spl:]
-    return prompt, eval
-
 
 def prepare_prompt(prompt, list_of_keys):
     #prompt = prompt.copy()
@@ -72,7 +64,16 @@ def prepare_prompt(prompt, list_of_keys):
         for key in i['entities']:
             prp += f"""**{key['entity'].strip()}** {key['value'].strip()}\n"""
     return prp
+
 def prep_fewshot(prompt, ele):
     prp = prompt
     prp += f"""\nQuery: {ele['text'].strip()}\n **Category** """
     return prp
+
+def split_data(data):
+    np.random.shuffle(data)
+    spl = int(len(data) * 0.2)
+    print(spl)
+    prompt = data[:spl]
+    eval = data[spl:]
+    return prompt, eval
